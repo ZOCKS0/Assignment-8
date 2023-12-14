@@ -1,0 +1,7 @@
+.Qbtn{
+    background-color: blue;
+
+}
+.Qbtn:hover{
+    background-color: green;
+}
